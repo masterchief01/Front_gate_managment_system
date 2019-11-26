@@ -1,0 +1,1 @@
+void warnings(void);
